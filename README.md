@@ -1,4 +1,3 @@
-# ML_73-London-Temperature-Prediction
 # London Temperature Prediction | ML_73
 
 A machine learning project using time-series regression to predict London's daily mean temperature from historical weather data.
